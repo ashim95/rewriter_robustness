@@ -1,4 +1,5 @@
-# Code to run experiments from the ACL 23 paper Don't Retrain, Just Rewrite: Countering Adversarial Perturbations by Rewriting Text 
+# Text Rewriter For Defending against Adversarial Attacks
+Code to run experiments from the ACL 23 paper Don't Retrain, Just Rewrite: Countering Adversarial Perturbations by Rewriting Text 
 
 ## Setup the code
 
